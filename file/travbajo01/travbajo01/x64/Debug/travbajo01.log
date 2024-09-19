@@ -1,0 +1,4 @@
+﻿  inicio.cpp
+C:\Users\jose\Desktop\poo\trabajo16.09.24\travbajo01\travbajo01\inicio.cpp(24,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  inicio.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  travbajo01.vcxproj -> C:\Users\jose\Desktop\poo\trabajo16.09.24\travbajo01\x64\Debug\travbajo01.exe
